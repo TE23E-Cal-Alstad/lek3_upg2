@@ -1,0 +1,32 @@
+/*
+Namn: Cal Alstad
+Klass: TE23E
+*/
+
+h1{
+    background-color: aqua;
+    color: tomato;
+    text-align: center;
+}
+
+body{
+    background-image: url('./img/ek.jpg') ;
+}
+
+h2{
+    background-color: blueviolet;
+    color: aquamarine;
+
+}
+
+a{
+    text-decoration: none;
+    background-color: black;
+    color:azure;
+
+}
+
+p{
+    background-color:azure;
+    color:black;
+}
